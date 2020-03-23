@@ -1,3 +1,17 @@
+<html>
+{{partial "head" .}}
+<body>
+    {{partial "header" .}}
+    {{partial "nav" .}}
+        <div id="content" style="min-height:80%">
+        {{- block "main" . }}{{- end }}
+        </div>
+
+    {{- partial "self-define.html" . -}}
+    {{ partial "footer" . }}
+</body>
+</html>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161592860-1"></script>
 <script>
