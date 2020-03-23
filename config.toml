@@ -1,5 +1,5 @@
-baseURL = "luxiangze.netlify.com"
-title = "Example Site"
+baseURL = "www.luxiangze.xyz"
+title = "鹿芗泽"
 theme = "erblog"
 paginate = 3
 languageCode = "en"
@@ -8,7 +8,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 [params]
-    author = "Steve Francia"
+    author = "鹿芗泽"
     # logo = "//blog.ertuil.top/avater.png"
     bio = """
     <p> This is BIO. You can write something here. </p>
@@ -20,7 +20,7 @@ footnoteReturnLinkContents = "^"
 
 [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "about"
     url = "/about/"
     weight = 10
 
@@ -53,7 +53,7 @@ series = "series"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/luxiangze/"
     name = "github"
     weight = 1
 
