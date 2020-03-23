@@ -9,11 +9,11 @@ footnoteReturnLinkContents = "^"
 
 [params]
     author = "鹿芗泽"
-    # logo = "//blog.ertuil.top/avater.png"
+    # logo = "//blog.ertuil.top/avater.jpg"
     bio = """
-    <p> This is BIO. You can write something here. </p>
+    <p>人生，总会有不期而遇的温暖和生生不息的希望。 </p>
     <br />
-    <p>Also all html tags such as <a href="https://github.com/ertuil/erblog">link</a> are a good here.</p>
+    <p>In life, there will always be unexpected warmth and endless hope.</p>
     """
     copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 
@@ -48,7 +48,7 @@ tag = "tags"
 series = "series"
 
 [[menu.icon]]
-    url = "mailto:username@mail.com"
+    url = "gyongkang.outlook.com"
     name = "envelope-o"
     weight = 1
 
