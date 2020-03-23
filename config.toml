@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "romantic-wozniak-b2807e.netlify.com"
 title = "Example Site"
 theme = "erblog"
 paginate = 3
